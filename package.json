@@ -1,0 +1,21 @@
+{
+  "name": "novabank-ai-support-agent",
+  "version": "1.0.0",
+  "description": "NovaBank AI Support Agent & Landing Page with Gemini BYOK Architecture",
+  "main": "index.html",
+  "scripts": {
+    "start": "python -m http.server 3000",
+    "dev": "python -m http.server 3000",
+    "serve": "npx.cmd serve . -p 3000"
+  },
+  "keywords": [
+    "gemini",
+    "ai-agent",
+    "fintech",
+    "byok",
+    "novabank",
+    "vanilla-js"
+  ],
+  "author": "NovaBank",
+  "license": "MIT"
+}
